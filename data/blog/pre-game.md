@@ -51,8 +51,11 @@ int main(void){
 ```
 
 Basta rodar no console o programa _norminette_ que ele diz o que fizemos de errado:
+
 ![](/static/images/7F03C462-F3A6-42DD-9488-C9B377BA1385.png)
+
 Ele espera um TAB e não espaço depois das declarações, chaves sempre em nova linha… São mais regras de formatação que eles consideram boas práticas, e quando arrumamos a _norminette_ diz que está tudo OK!
+
 ![](/static/images/F7013820-3D10-41EF-BEAD-F5612C565A08.png)
 
 Vale lembrar: O que vale é a **A NORMA**, não o programa auxiliar _norminette_. Na dúvida é melhor consultar [o arquivo oficial](https://www.notion.so/A-Norma-60a738d092ef4feb8224a54913ffccd2), o programa é mais recente e parece que não contém ainda todas as coisas.
