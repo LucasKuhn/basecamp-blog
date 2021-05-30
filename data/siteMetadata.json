@@ -2,7 +2,7 @@
   "title": "Basecamp Blog",
   "author": "Luke",
   "headerTitle": "Basecamp Blog",
-  "description": "A blog created with Next.js and Tailwind.css",
+  "description": "Relatando a experiencia durante o Basecamp",
   "language": "en-us",
   "siteUrl": "https://tailwind-nextjs-starter-blog.vercel.app",
   "siteRepo": "https://github.com/timlrx/tailwind-nextjs-starter-blog",
